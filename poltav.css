@@ -1,0 +1,48 @@
+*{
+	padding:5px;
+	margin:3px;
+	box-sizing: border-box;
+}
+body{
+    background-color: rgba(194, 185, 185, 0.541);
+    max-width: 65%;
+    margin: auto;
+    padding:50px
+}
+.title{
+    font-size: 65px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Young Serif', serif;
+    text-align: center;
+}
+.title2{
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Young Serif', serif;
+    text-align: center;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+	color: #000000;
+}
+img{
+    max-width: 100%;
+	height: auto;
+    height: 450px;
+}
+div{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+a{
+    background-color: rgba(158, 158, 158, 0.322);
+    text-decoration: none;
+    color:rgba(56, 56, 255, 0.801);
+    border-bottom: 1px solid transparent;
+    transition: 0.2s ease-in;
+    font-size:20px
+}
+a:hover{
+    border-bottom-color: aquamarine;
+    font-size: 30px;
+}
